@@ -1,0 +1,11 @@
+{
+  "name": "une-cinema-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SiJBC/une-cinema-typescript.git",
+  "author": "Simon Colman <55180479+SiJBC@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
